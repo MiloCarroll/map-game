@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.082672,49.26024],[-2.242014,49.247952],[-2.168691,49.17829],[-2.024526,49.171332],[-2.02066,49.235256],[-2.082672,49.26024]]]},"properties":{"id":"JEY+00?","name":"Jersey","lng":-2.12454,"lat":49.2298,"adm0_a3":"JEY","admin":"Jersey"}}
+]}

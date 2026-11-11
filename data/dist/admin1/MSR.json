@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.225458,16.747808],[-62.188632,16.738967],[-62.170033,16.777004],[-62.225458,16.747808]]]},"properties":{"id":"MSR-5089","name":"Saint Peter","lng":-62.2017,"lat":16.7762,"adm0_a3":"MSR","admin":"Montserrat"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.150787,16.720364],[-62.188632,16.738967],[-62.225458,16.747808],[-62.218861,16.688707],[-62.150787,16.720364]]]},"properties":{"id":"MSR-5087","name":"Saint Anthony","lng":-62.1886,"lat":16.7048,"adm0_a3":"MSR","admin":"Montserrat"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.170033,16.777004],[-62.188632,16.738967],[-62.150787,16.720364],[-62.170033,16.777004]]]},"properties":{"id":"MSR-5088","name":"Saint George","lng":-62.1671,"lat":16.7442,"adm0_a3":"MSR","admin":"Montserrat"}}
+]}

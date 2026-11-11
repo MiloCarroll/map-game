@@ -1,0 +1,1465 @@
+{
+  "type": "geo-regions",
+  "source": "Curated (pipeline/config/geo-regions.json)",
+  "count": 81,
+  "features": [
+    {
+      "id": "altiplano",
+      "name": "Altiplano",
+      "centroid": [
+        -67.5,
+        -18
+      ],
+      "radiusKm": 400,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "amazonia",
+      "name": "Amazonia",
+      "centroid": [
+        -62,
+        -4
+      ],
+      "radiusKm": 1600,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "anatolia",
+      "name": "Anatolia",
+      "centroid": [
+        34,
+        39
+      ],
+      "radiusKm": 550,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "andalusia",
+      "name": "Andalusia",
+      "centroid": [
+        -4.5,
+        37.4
+      ],
+      "radiusKm": 220,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "apennine",
+      "name": "Apennine Peninsula",
+      "centroid": [
+        13,
+        42
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "appalachia",
+      "name": "Appalachia",
+      "centroid": [
+        -81,
+        37
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "arabia",
+      "name": "Arabian Peninsula",
+      "centroid": [
+        45,
+        23
+      ],
+      "radiusKm": 1100,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "atlas-mountains",
+      "name": "Atlas Mountains",
+      "centroid": [
+        4,
+        32
+      ],
+      "radiusKm": 600,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Northern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "outback",
+      "name": "Australian Outback",
+      "centroid": [
+        134,
+        -25
+      ],
+      "radiusKm": 1500,
+      "regions": {
+        "continent": "Oceania",
+        "regionUN": "Oceania",
+        "subregion": "Australia and New Zealand"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "baja-california",
+      "name": "Baja California",
+      "centroid": [
+        -113,
+        27
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Central America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "bali",
+      "name": "Bali",
+      "centroid": [
+        115.1,
+        -8.4
+      ],
+      "radiusKm": 55,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "South-Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "bavaria",
+      "name": "Bavaria",
+      "centroid": [
+        11.4,
+        48.9
+      ],
+      "radiusKm": 200,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "bengal",
+      "name": "Bengal",
+      "centroid": [
+        88.5,
+        24
+      ],
+      "radiusKm": 300,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "bohemia",
+      "name": "Bohemia",
+      "centroid": [
+        14.5,
+        49.9
+      ],
+      "radiusKm": 160,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Eastern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "british-isles",
+      "name": "British Isles",
+      "centroid": [
+        -4,
+        54
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Northern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "brittany",
+      "name": "Brittany",
+      "centroid": [
+        -3,
+        48.2
+      ],
+      "radiusKm": 130,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "catalonia",
+      "name": "Catalonia",
+      "centroid": [
+        1.5,
+        41.8
+      ],
+      "radiusKm": 110,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "central-asia",
+      "name": "Central Asia",
+      "centroid": [
+        65,
+        43
+      ],
+      "radiusKm": 1200,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Central Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "congo-basin",
+      "name": "Congo Basin",
+      "centroid": [
+        22,
+        -1
+      ],
+      "radiusKm": 900,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Middle Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "crimea",
+      "name": "Crimea",
+      "centroid": [
+        34.2,
+        45.3
+      ],
+      "radiusKm": 140,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Eastern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "darfur",
+      "name": "Darfur",
+      "centroid": [
+        24,
+        13
+      ],
+      "radiusKm": 350,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Northern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "deccan",
+      "name": "Deccan Plateau",
+      "centroid": [
+        77,
+        17.5
+      ],
+      "radiusKm": 600,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "flanders",
+      "name": "Flanders",
+      "centroid": [
+        3.6,
+        51
+      ],
+      "radiusKm": 100,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "florida",
+      "name": "Florida",
+      "centroid": [
+        -81.5,
+        28
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "galilee",
+      "name": "Galilee",
+      "centroid": [
+        35.4,
+        32.9
+      ],
+      "radiusKm": 60,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "gobi",
+      "name": "Gobi Desert",
+      "centroid": [
+        105,
+        43
+      ],
+      "radiusKm": 900,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "gran-chaco",
+      "name": "Gran Chaco",
+      "centroid": [
+        -61,
+        -23
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "great-lakes",
+      "name": "Great Lakes Region",
+      "centroid": [
+        -84,
+        45
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "great-plains",
+      "name": "Great Plains",
+      "centroid": [
+        -100,
+        42
+      ],
+      "radiusKm": 1200,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "hejaz",
+      "name": "Hejaz",
+      "centroid": [
+        39,
+        23.5
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "hokkaido",
+      "name": "Hokkaido",
+      "centroid": [
+        142.8,
+        43.5
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "horn-of-africa",
+      "name": "Horn of Africa",
+      "centroid": [
+        46,
+        8
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Eastern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "iberia",
+      "name": "Iberia",
+      "centroid": [
+        -4,
+        40
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "indian-subcontinent",
+      "name": "Indian Subcontinent",
+      "centroid": [
+        78,
+        22
+      ],
+      "radiusKm": 1500,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "indochina",
+      "name": "Indochina",
+      "centroid": [
+        104,
+        16
+      ],
+      "radiusKm": 800,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "South-Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "kalahari",
+      "name": "Kalahari Desert",
+      "centroid": [
+        22,
+        -23
+      ],
+      "radiusKm": 600,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Southern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "kashmir",
+      "name": "Kashmir",
+      "centroid": [
+        75.5,
+        34
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "kurdistan",
+      "name": "Kurdistan",
+      "centroid": [
+        44,
+        37
+      ],
+      "radiusKm": 400,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "lapland",
+      "name": "Lapland",
+      "centroid": [
+        25,
+        68
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Northern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "manchuria",
+      "name": "Manchuria",
+      "centroid": [
+        125,
+        45
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "melanesia",
+      "name": "Melanesia",
+      "centroid": [
+        160,
+        -8
+      ],
+      "radiusKm": 1500,
+      "regions": {
+        "continent": "Oceania",
+        "regionUN": "Oceania",
+        "subregion": "Melanesia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "mesoamerica",
+      "name": "Mesoamerica",
+      "centroid": [
+        -91,
+        17
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Central America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "mesopotamia",
+      "name": "Mesopotamia",
+      "centroid": [
+        44,
+        33.5
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "micronesia",
+      "name": "Micronesia",
+      "centroid": [
+        150,
+        7
+      ],
+      "radiusKm": 1800,
+      "regions": {
+        "continent": "Oceania",
+        "regionUN": "Oceania",
+        "subregion": "Micronesia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "mongolian-steppe",
+      "name": "Mongolian Steppe",
+      "centroid": [
+        105,
+        47
+      ],
+      "radiusKm": 800,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "namib",
+      "name": "Namib Desert",
+      "centroid": [
+        14.5,
+        -24
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Southern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "new-england",
+      "name": "New England",
+      "centroid": [
+        -71.5,
+        43.8
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "nile-valley",
+      "name": "Nile Valley",
+      "centroid": [
+        31,
+        26
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Northern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "pacific-northwest",
+      "name": "Pacific Northwest",
+      "centroid": [
+        -121.5,
+        46.5
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "patagonia",
+      "name": "Patagonia",
+      "centroid": [
+        -70,
+        -45
+      ],
+      "radiusKm": 800,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "polynesia",
+      "name": "Polynesia",
+      "centroid": [
+        -150,
+        -15
+      ],
+      "radiusKm": 2500,
+      "regions": {
+        "continent": "Oceania",
+        "regionUN": "Oceania",
+        "subregion": "Polynesia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "provence",
+      "name": "Provence",
+      "centroid": [
+        6,
+        43.9
+      ],
+      "radiusKm": 110,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "centroid": [
+        74.5,
+        31
+      ],
+      "radiusKm": 230,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "centroid": [
+        73.5,
+        26.8
+      ],
+      "radiusKm": 350,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "rocky-mountains",
+      "name": "Rocky Mountains",
+      "centroid": [
+        -110,
+        44
+      ],
+      "radiusKm": 700,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Northern America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "scandinavia",
+      "name": "Scandinavia",
+      "centroid": [
+        15,
+        63
+      ],
+      "radiusKm": 1000,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Northern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "serengeti",
+      "name": "Serengeti",
+      "centroid": [
+        34.8,
+        -2.3
+      ],
+      "radiusKm": 150,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Eastern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "siberia",
+      "name": "Siberia",
+      "centroid": [
+        100,
+        62
+      ],
+      "radiusKm": 2200,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": null
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "sichuan",
+      "name": "Sichuan Basin",
+      "centroid": [
+        104.5,
+        30.5
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "sicily",
+      "name": "Sicily",
+      "centroid": [
+        14.2,
+        37.5
+      ],
+      "radiusKm": 120,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "silesia",
+      "name": "Silesia",
+      "centroid": [
+        17.5,
+        50.7
+      ],
+      "radiusKm": 180,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Eastern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "sinai",
+      "name": "Sinai Peninsula",
+      "centroid": [
+        33.8,
+        29.5
+      ],
+      "radiusKm": 160,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "tasmania",
+      "name": "Tasmania",
+      "centroid": [
+        146.6,
+        -42
+      ],
+      "radiusKm": 150,
+      "regions": {
+        "continent": "Oceania",
+        "regionUN": "Oceania",
+        "subregion": "Australia and New Zealand"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "the-alps",
+      "name": "The Alps",
+      "centroid": [
+        10,
+        46.5
+      ],
+      "radiusKm": 350,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "andes",
+      "name": "The Andes",
+      "centroid": [
+        -70,
+        -20
+      ],
+      "radiusKm": 1700,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "balkans",
+      "name": "The Balkans",
+      "centroid": [
+        21,
+        43
+      ],
+      "radiusKm": 600,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "carpathians",
+      "name": "The Carpathians",
+      "centroid": [
+        24,
+        47.5
+      ],
+      "radiusKm": 500,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Eastern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "caucasus",
+      "name": "The Caucasus",
+      "centroid": [
+        44.5,
+        42.5
+      ],
+      "radiusKm": 450,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "himalayas",
+      "name": "The Himalayas",
+      "centroid": [
+        83,
+        29.5
+      ],
+      "radiusKm": 1100,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Southern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "levant",
+      "name": "The Levant",
+      "centroid": [
+        36,
+        33.5
+      ],
+      "radiusKm": 350,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Western Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "maghreb",
+      "name": "The Maghreb",
+      "centroid": [
+        5,
+        32
+      ],
+      "radiusKm": 1100,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Northern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "pamirs",
+      "name": "The Pamirs",
+      "centroid": [
+        73,
+        38.5
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Central Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "pampas",
+      "name": "The Pampas",
+      "centroid": [
+        -63,
+        -35
+      ],
+      "radiusKm": 600,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "South America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "sahara",
+      "name": "The Sahara",
+      "centroid": [
+        10,
+        23
+      ],
+      "radiusKm": 2000,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Northern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "sahel",
+      "name": "The Sahel",
+      "centroid": [
+        10,
+        15
+      ],
+      "radiusKm": 2000,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Western Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "tibetan-plateau",
+      "name": "Tibetan Plateau",
+      "centroid": [
+        88,
+        33
+      ],
+      "radiusKm": 900,
+      "regions": {
+        "continent": "Asia",
+        "regionUN": "Asia",
+        "subregion": "Eastern Asia"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "transylvania",
+      "name": "Transylvania",
+      "centroid": [
+        24.5,
+        46.6
+      ],
+      "radiusKm": 200,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Eastern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "tuscany",
+      "name": "Tuscany",
+      "centroid": [
+        11.2,
+        43.4
+      ],
+      "radiusKm": 120,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Southern Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "tyrol",
+      "name": "Tyrol",
+      "centroid": [
+        11.4,
+        47.2
+      ],
+      "radiusKm": 110,
+      "regions": {
+        "continent": "Europe",
+        "regionUN": "Europe",
+        "subregion": "Western Europe"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "western-cape",
+      "name": "Western Cape",
+      "centroid": [
+        20,
+        -33.5
+      ],
+      "radiusKm": 300,
+      "regions": {
+        "continent": "Africa",
+        "regionUN": "Africa",
+        "subregion": "Southern Africa"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    },
+    {
+      "id": "yucatan",
+      "name": "Yucatán Peninsula",
+      "centroid": [
+        -89,
+        20
+      ],
+      "radiusKm": 250,
+      "regions": {
+        "continent": "Americas",
+        "regionUN": "Americas",
+        "subregion": "Central America"
+      },
+      "status": {
+        "inDefaultQuiz": true
+      },
+      "kind": "region"
+    }
+  ]
+}

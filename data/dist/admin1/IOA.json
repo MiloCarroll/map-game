@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[96.863129,-12.181736],[96.847667,-12.187188],[96.836192,-12.182061],[96.835216,-12.160577],[96.82838,-12.12656],[96.821544,-12.12656],[96.823416,-12.150974],[96.830577,-12.179946],[96.845225,-12.197686],[96.863129,-12.181736]]]},"properties":{"id":"IOA-1928","name":"Cocos","lng":96.905,"lat":-12.1915,"adm0_a3":"IOA","admin":"Indian Ocean Territories"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[105.704112,-10.430841],[105.628184,-10.508966],[105.697927,-10.528985],[105.704112,-10.430841]]]},"properties":{"id":"IOA-2652","name":"Christmas Island","lng":105.648,"lat":-10.4913,"adm0_a3":"IOA","admin":"Indian Ocean Territories"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[179.191254,-8.542087],[179.21754,-8.520603],[179.204112,-8.518976],[179.191254,-8.542087]]]},"properties":{"id":"TUV+00?","name":"Tuvalu","lng":179.903,"lat":-9.39381,"adm0_a3":"TUV","admin":"Tuvalu"}}
+]}

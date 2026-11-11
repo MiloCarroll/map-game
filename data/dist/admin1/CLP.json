@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-109.212026,10.30268],[-109.234242,10.307929],[-109.218577,10.281562],[-109.212026,10.30268]]]},"properties":{"id":"CLP+00?","name":"Clipperton Island","lng":-109.222,"lat":10.2973,"adm0_a3":"CLP","admin":"Clipperton Island"}}
+]}

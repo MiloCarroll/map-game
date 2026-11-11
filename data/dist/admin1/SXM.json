@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-63.107004,18.06212],[-63.097646,18.035956],[-63.017569,18.033391],[-63.107004,18.06212]]]},"properties":{"id":"SXM-5146","name":"Sint Maarten","lng":-63.0677,"lat":18.0401,"adm0_a3":"SXM","admin":"Sint Maarten"}}
+]}

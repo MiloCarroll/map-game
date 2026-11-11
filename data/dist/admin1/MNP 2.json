@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[145.20574,14.181383],[145.130707,14.146918],[145.209972,14.110663],[145.282074,14.161038],[145.20574,14.181383]]]},"properties":{"id":"MNP-4937","name":"Rota","lng":145.205,"lat":14.1465,"adm0_a3":"MNP","admin":"Northern Mariana Islands"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[145.647309,15.072089],[145.578461,15.017483],[145.606456,14.928127],[145.667817,14.982733],[145.647309,15.072089]]]},"properties":{"id":"MNP-4938","name":"Tinian","lng":145.622,"lat":14.9995,"adm0_a3":"MNP","admin":"Northern Mariana Islands"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[145.787852,15.267279],[145.698253,15.203192],[145.73878,15.136664],[145.792735,15.232245],[145.787852,15.267279]]]},"properties":{"id":"MNP-4939","name":"Saipan","lng":145.744,"lat":15.1921,"adm0_a3":"MNP","admin":"Northern Mariana Islands"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[145.771118,18.175209],[145.739513,18.090969],[145.758149,18.061184],[145.835623,18.128323],[145.771118,18.175209]]]},"properties":{"id":"MNP-4940","name":"Northern Mariana Islands","lng":145.674,"lat":16.3573,"adm0_a3":"MNP","admin":"Northern Mariana Islands"}}
+]}

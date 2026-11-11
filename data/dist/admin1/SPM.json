@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-56.15095,46.793647],[-56.191884,46.806627],[-56.240305,46.765692],[-56.16808,46.75727],[-56.15095,46.793647]]]},"properties":{"id":"SPM-4866","name":"Saint Pierre and Miquelon","lng":-56.1918,"lat":46.7795,"adm0_a3":"SPM","admin":"Saint Pierre and Miquelon"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-56.273793,46.895453],[-56.31371,46.975653],[-56.253326,47.053697],[-56.395904,47.113593],[-56.384999,47.035631],[-56.336781,46.95425],[-56.342763,46.875556],[-56.396352,46.836371],[-56.346262,46.783596],[-56.249257,46.842271],[-56.273793,46.895453]]]},"properties":{"id":"SPM-4867","name":"Miquelon-Langlade","lng":-56.3418,"lat":47.0461,"adm0_a3":"SPM","admin":"Saint Pierre and Miquelon"}}
+]}

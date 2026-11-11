@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[115.830577,10.734605],[115.814626,10.73432],[115.81837,10.720852],[115.830577,10.734605]]]},"properties":{"id":"PGA+00?","name":"Spratly Islands","lng":113.342,"lat":8.26522,"adm0_a3":"PGA","admin":"Spratly Is."}}
+]}

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Map Game</title>
+    <meta name="theme-color" content="#0b1c2c" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Map Game" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="icon.svg" />
+    <link rel="manifest" href="manifest.webmanifest" />
+  </head>
+  <body class="menu">
+    <div id="map"></div>
+
+    <div id="hud">
+      <div id="prompt"></div>
+      <div id="score"></div>
+    </div>
+
+    <div id="controls">
+      <button id="toggle-basemap" type="button">Map: Simplified</button>
+      <button id="toggle-projection" type="button">🌐 Globe</button>
+      <button id="toggle-borders" type="button">Borders: on</button>
+      <button id="skip" type="button">Skip →</button>
+      <button id="pass" type="button">Pass (show)</button>
+      <button id="quit" type="button">New game</button>
+    </div>
+
+    <!-- Description of the most recently found/shown feature. -->
+    <div id="feature-info"></div>
+
+    <!-- Mode picker + end screen render here. -->
+    <div id="overlay"></div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

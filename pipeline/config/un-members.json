@@ -1,0 +1,41 @@
+{
+  "_comment": "Authoritative UN membership, by ISO 3166-1 alpha-3. 193 member states + 2 permanent observers (Holy See, Palestine). Grouped by UN M49 region purely for human auditing; the build flattens all groups. The build matches each code against a feature's iso.a3 (ISO_A3_EH) first, then its id (ADM0_A3), and reports any code that matched no feature. Edit here to change the default country set.",
+  "members": {
+    "africa": [
+      "DZA", "AGO", "BEN", "BWA", "BFA", "BDI", "CPV", "CMR", "CAF", "TCD",
+      "COM", "COG", "COD", "CIV", "DJI", "EGY", "GNQ", "ERI", "SWZ", "ETH",
+      "GAB", "GMB", "GHA", "GIN", "GNB", "KEN", "LSO", "LBR", "LBY", "MDG",
+      "MWI", "MLI", "MRT", "MUS", "MAR", "MOZ", "NAM", "NER", "NGA", "RWA",
+      "STP", "SEN", "SYC", "SLE", "SOM", "ZAF", "SSD", "SDN", "TZA", "TGO",
+      "TUN", "UGA", "ZMB", "ZWE"
+    ],
+    "asia": [
+      "AFG", "ARM", "AZE", "BHR", "BGD", "BTN", "BRN", "KHM", "CHN", "CYP",
+      "GEO", "IND", "IDN", "IRN", "IRQ", "ISR", "JPN", "JOR", "KAZ", "KWT",
+      "KGZ", "LAO", "LBN", "MYS", "MDV", "MNG", "MMR", "NPL", "PRK", "OMN",
+      "PAK", "PHL", "QAT", "SAU", "SGP", "KOR", "LKA", "SYR", "TJK", "THA",
+      "TLS", "TKM", "ARE", "UZB", "VNM", "YEM", "TUR"
+    ],
+    "europe": [
+      "ALB", "AND", "AUT", "BLR", "BEL", "BIH", "BGR", "HRV", "CZE", "DNK",
+      "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "ISL", "IRL", "ITA", "LVA",
+      "LIE", "LTU", "LUX", "MLT", "MDA", "MCO", "MNE", "NLD", "MKD", "NOR",
+      "POL", "PRT", "ROU", "RUS", "SMR", "SRB", "SVK", "SVN", "ESP", "SWE",
+      "CHE", "UKR", "GBR"
+    ],
+    "americas": [
+      "ATG", "ARG", "BHS", "BRB", "BLZ", "BOL", "BRA", "CAN", "CHL", "COL",
+      "CRI", "CUB", "DMA", "DOM", "ECU", "SLV", "GRD", "GTM", "GUY", "HTI",
+      "HND", "JAM", "MEX", "NIC", "PAN", "PRY", "PER", "KNA", "LCA", "VCT",
+      "SUR", "TTO", "USA", "URY", "VEN"
+    ],
+    "oceania": [
+      "AUS", "FJI", "KIR", "MHL", "FSM", "NRU", "NZL", "PLW", "PNG", "WSM",
+      "SLB", "TON", "TUV", "VUT"
+    ]
+  },
+  "observers": {
+    "VAT": "Holy See (Vatican City)",
+    "PSE": "State of Palestine"
+  }
+}

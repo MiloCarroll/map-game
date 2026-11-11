@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-64.635121,18.405504],[-64.583323,18.416327],[-64.560161,18.454103],[-64.661821,18.440416],[-64.635121,18.405504]]]},"properties":{"id":"VGB+00?","name":"British Virgin Islands","lng":-64.5854,"lat":18.3536,"adm0_a3":"VGB","admin":"British Virgin Islands"}}
+]}

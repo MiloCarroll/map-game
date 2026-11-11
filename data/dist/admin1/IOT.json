@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[72.46754,-7.383884],[72.432872,-7.425388],[72.438975,-7.340265],[72.432872,-7.316095],[72.370942,-7.270196],[72.379242,-7.296808],[72.426036,-7.322931],[72.432872,-7.346775],[72.426931,-7.403985],[72.432872,-7.432224],[72.480642,-7.390558],[72.46754,-7.383884]]]},"properties":{"id":"IOT+00?","name":"British Indian Ocean Territory","lng":71.7425,"lat":-5.28054,"adm0_a3":"IOT","admin":"British Indian Ocean Territory"}}
+]}

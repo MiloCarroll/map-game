@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[-75.095006,19.897226],[-75.09495,19.971584],[-75.137036,19.971551],[-75.164378,19.913719],[-75.095006,19.897226]]],[[[-75.160192,19.970648],[-75.228969,19.93744],[-75.232859,19.900051],[-75.156733,19.9389],[-75.160192,19.970648]]]]},"properties":{"id":"USG+00?","name":"USNB, Guantanamo Bay","lng":-75.1964,"lat":19.9347,"adm0_a3":"USG","admin":"US Naval Base Guantanamo Bay"}}
+]}

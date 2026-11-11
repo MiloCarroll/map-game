@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[167.984141,-29.017836],[167.926524,-28.997491],[167.926443,-29.066339],[167.985037,-29.059259],[167.984141,-29.017836]]]},"properties":{"id":"NFK+00?","name":"Norfolk Island","lng":167.954,"lat":-29.033,"adm0_a3":"NFK","admin":"Norfolk Island"}}
+]}

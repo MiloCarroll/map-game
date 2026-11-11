@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.597016,-12.428318],[123.575043,-12.426609],[123.575613,-12.436782],[123.597748,-12.438572],[123.597016,-12.428318]]]},"properties":{"id":"ATC+00?","name":"Ashmore and Cartier Islands","lng":123.586,"lat":-12.4325,"adm0_a3":"ATC","admin":"Ashmore and Cartier Islands"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[150.009044,-16.134373],[149.999848,-16.135675],[150.007335,-16.136733],[150.009044,-16.134373]]]},"properties":{"id":"CSI+00?","name":"Coral Sea Islands","lng":148.43,"lat":-17.6554,"adm0_a3":"CSI","admin":"Coral Sea Islands"}}
+]}

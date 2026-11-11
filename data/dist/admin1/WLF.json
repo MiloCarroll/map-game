@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-178.126551,-14.313148],[-178.130774,-14.255547],[-178.18574,-14.248224],[-178.156606,-14.305108],[-178.126551,-14.313148]]]},"properties":{"id":"WLF-4995","name":"Sigave","lng":-178.161,"lat":-14.2659,"adm0_a3":"WLF","admin":"Wallis and Futuna"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-178.130774,-14.255547],[-178.126551,-14.313148],[-178.108144,-14.278985],[-178.130774,-14.255547]]]},"properties":{"id":"WLF-4997","name":"Alo","lng":-178.094,"lat":-14.3029,"adm0_a3":"WLF","admin":"Wallis and Futuna"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-176.155466,-13.208917],[-176.199574,-13.290623],[-176.18281,-13.339288],[-176.1256,-13.264093],[-176.155466,-13.208917]]]},"properties":{"id":"WLF-4996","name":"Uvea","lng":-176.169,"lat":-13.2768,"adm0_a3":"WLF","admin":"Wallis and Futuna"}}
+]}

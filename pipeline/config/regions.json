@@ -1,0 +1,23 @@
+{
+  "_comment": "Custom region groupings for region-specific gamemodes. NE's CONTINENT/SUBREGION/REGION_UN cover the basics; this file adds curated thematic sets. Each group lists member ids (ADM0_A3). Empty arrays are placeholders to fill as data lands.",
+  "groups": {
+    "pacific-islands": {
+      "label": "Pacific Islands",
+      "match": { "subregion": ["Melanesia", "Micronesia", "Polynesia"] },
+      "ids": []
+    },
+    "caribbean": {
+      "label": "Caribbean",
+      "match": { "subregion": ["Caribbean"] },
+      "ids": []
+    },
+    "balkans": {
+      "label": "The Balkans",
+      "ids": ["ALB", "BIH", "BGR", "HRV", "GRC", "KOS", "MKD", "MNE", "SRB", "SVN", "ROU"]
+    },
+    "horn-of-africa": {
+      "label": "Horn of Africa",
+      "ids": ["DJI", "ERI", "ETH", "SOM"]
+    }
+  }
+}

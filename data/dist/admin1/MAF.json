@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-63.017569,18.033391],[-63.017649,18.122138],[-63.070872,18.110012],[-63.107004,18.06212],[-63.017569,18.033391]]]},"properties":{"id":"MAF-5145","name":"Saint Martin","lng":-63.078,"lat":18.0799,"adm0_a3":"MAF","admin":"Saint Martin"}}
+]}

@@ -1,0 +1,20 @@
+{
+  "name": "map-game-data",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Data pipeline for the geography click-quiz game.",
+  "scripts": {
+    "data:download": "node pipeline/download.mjs",
+    "data:countries": "node pipeline/build-countries.mjs",
+    "data:cities": "node pipeline/build-cities.mjs",
+    "data:regions": "node pipeline/build-regions.mjs",
+    "data:features": "node pipeline/build-features.mjs",
+    "data:admin1": "node pipeline/build-admin1.mjs",
+    "data:tiles": "node pipeline/build-tiles.mjs",
+    "data:build": "npm run data:download && npm run data:countries && npm run data:cities && npm run data:regions && npm run data:features && npm run data:admin1 && npm run data:tiles"
+  },
+  "devDependencies": {
+    "mapshaper": "^0.6.102"
+  }
+}

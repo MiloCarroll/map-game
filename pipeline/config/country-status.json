@@ -1,0 +1,11 @@
+{
+  "_comment": "Per-entity status overlay keyed by id (ADM0_A3). The builder derives sovereign/dependency/disputed from NE's TYPE field + UN membership; entries here OVERRIDE flags and attach a note. They may also set centroid [lng,lat] and radiusKm to give a country a RADIAL hitbox instead of relying on its polygon (for tiny / bad-polygon countries). UN membership lives in un-members.json; do NOT put unMember/unObserver here.",
+  "overrides": {
+    "PSX": { "disputed": true, "note": "Palestine — UN observer state" },
+    "KOS": { "disputed": true, "note": "Kosovo — partially recognized" },
+    "SAH": { "disputed": true, "note": "Western Sahara" },
+    "TWN": { "disputed": true, "note": "Taiwan" },
+    "VAT": { "radiusKm": 30, "note": "Vatican City — micro-polygon, use a radial hitbox" },
+    "MDV": { "centroid": [73.4, 3.2], "radiusKm": 300, "note": "Maldives — atoll chain, use a radial hitbox" }
+  }
+}

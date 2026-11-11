@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.838857,17.881985],[-62.791656,17.915473],[-62.857411,17.925035],[-62.838857,17.881985]]]},"properties":{"id":"BLM-5113","name":"Saint Barthélemy","lng":-62.8288,"lat":17.9017,"adm0_a3":"BLM","admin":"Saint Barthelemy"}}
+]}
