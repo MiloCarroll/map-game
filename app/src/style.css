@@ -263,9 +263,9 @@ button, select { touch-action: manipulation; -webkit-user-select: none; user-sel
   .maplibregl-ctrl-bottom-right {
     top: calc(76px + env(safe-area-inset-top));
     bottom: auto;
-    right: auto;
+    /* Stop short of the zoom buttons so long credits (e.g. satellite) wrap. */
+    right: calc(52px + env(safe-area-inset-right));
     left: env(safe-area-inset-left);
   }
-  /* Long credits (e.g. satellite) wrap instead of running under the zoom buttons. */
-  .maplibregl-ctrl-bottom-right .maplibregl-ctrl-attrib { max-width: calc(100vw - 72px); }
+  .maplibregl-ctrl-bottom-right .maplibregl-ctrl-attrib { box-sizing: border-box; max-width: 100%; }
 }
