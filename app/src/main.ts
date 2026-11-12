@@ -64,7 +64,7 @@ const fillOpacity = (base: number): ExpressionSpecification => [
 function buildStyle(): StyleSpecification {
   return {
     version: 8,
-    projection: { type: "mercator" },
+    projection: { type: "globe" }, // default view; toggle switches to mercator
     sources: {
       world: { type: "vector", url: TILES_URL, promoteId: { countries: "id" } },
       satellite: {
@@ -807,7 +807,7 @@ async function main() {
 
   els.toggleBasemap.onclick = () => applyBasemap(BASEMAPS[(BASEMAPS.indexOf(basemap) + 1) % BASEMAPS.length]);
 
-  let isGlobe = false;
+  let isGlobe = true; // matches the style's default projection
   els.toggleProjection.onclick = () => {
     isGlobe = !isGlobe;
     map.setProjection({ type: isGlobe ? "globe" : "mercator" });
@@ -826,7 +826,7 @@ async function main() {
 
   map.on("load", () => {
     (map.getSource("cities") as maplibregl.GeoJSONSource).setData(cityFC);
-    applyBasemap("simplified");
+    applyBasemap("satellite");
     showMenu();
   });
 }
