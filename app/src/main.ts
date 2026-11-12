@@ -14,7 +14,11 @@ interface TargetsFile {
 // single static file via HTTP range requests through the pmtiles:// protocol.
 // BASE_URL is "/" in dev and "/map-game/" on GitHub Pages.
 const BASE = import.meta.env.BASE_URL;
-const TILES_URL = `pmtiles://${new URL(`${BASE}data/tiles/world.pmtiles`, location.href).href}`;
+// Production builds ship the tiles as world.pmtiles.zip (renamed by `npm run build`):
+// GitHub Pages gzips .pmtiles responses, which breaks the HTTP range requests
+// PMTiles relies on, but it leaves .zip (already-compressed types) untouched.
+const TILES_FILE = import.meta.env.PROD ? "world.pmtiles.zip" : "world.pmtiles";
+const TILES_URL = `pmtiles://${new URL(`${BASE}data/tiles/${TILES_FILE}`, location.href).href}`;
 // External raster basemaps (impractical to self-host). Best-effort: require internet.
 const SATELLITE_URL = "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2021_3857/default/g/{z}/{y}/{x}.jpg";
 const TERRAIN_URL = "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png";

@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build && mv dist/data/tiles/world.pmtiles dist/data/tiles/world.pmtiles.zip",
     "preview": "vite preview",
     "flags": "rm -rf public/flags && cp -r node_modules/flag-icons/flags/4x3 public/flags"
   },
