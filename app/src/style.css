@@ -266,4 +266,6 @@ button, select { touch-action: manipulation; -webkit-user-select: none; user-sel
     right: auto;
     left: env(safe-area-inset-left);
   }
+  /* Long credits (e.g. satellite) wrap instead of running under the zoom buttons. */
+  .maplibregl-ctrl-bottom-right .maplibregl-ctrl-attrib { max-width: calc(100vw - 72px); }
 }
